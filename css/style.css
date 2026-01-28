@@ -1,0 +1,33 @@
+header{
+
+}
+.box{
+	
+}
+.row{
+	align-items: center;
+	height: 100px;
+	border: 1px solid black;
+}
+.col{
+	border: 1px solid black;
+	
+	height: 33.33px;
+
+} 
+.col-4{
+	border: 1px solid black;
+	text-align: center;
+	background-color: lightblue;
+
+}
+.col-8{
+	border: 1px solid black;
+	text-align: center;
+	background-color: lightblue;
+
+}
+.container{
+	margin-bottom: 10px;
+
+}
